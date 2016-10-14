@@ -19,7 +19,6 @@
 const char * MQTT_broker = "Broker";//name of the mqtt broker
 const char * MQTT_user = "username";//username to access to the broker
 const char * MQTT_password = "password";//password to access to the broker
-const char * MQTT_topicPub = "topic to publish";//Topic to publish
 const char * MQTT_topicSub = "topic to subscribe";//Topic to susbcribe
 const char * MQTT_topicAlive = "topic alive";//Topic to publish alive messages
 const uint16_t MQTT_port = 1234; // port  to access to the broker
