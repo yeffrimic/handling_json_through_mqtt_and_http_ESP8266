@@ -3,6 +3,7 @@
  * format then decode it and print it
  * 
  * made by Yeffri J. Salazar, Najt Labs Guatemala 2016
+ * https://github.com/yeffrimic/handling_json_through_mqtt_and_http_ESP8266
 */
 //-------- Libraries required --------//
 #include <ESP8266WiFi.h>// this library is for ESP8266
